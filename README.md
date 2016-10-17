@@ -1,3 +1,1 @@
-# cisc220_1
-"Hello GitHub"
-Assignment 1
+cisc220 Assignment 1
